@@ -1,5 +1,5 @@
 To run the appliation 
-go to the clint directoty 
+go to the client directoty 
 npm start 
 next run the backend 
 npm run server.js
